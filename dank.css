@@ -3,10 +3,11 @@ html {
 	background: #000;
 	font-family: "Bitstream Vera Sans", "Lucida Grande", "Lucida Sans Unicode",
 		Lucidux, Verdana, Lucida, sans-serif;
+	color: #fff;
 }
 
 tr:nth-child(even) {
-	background: #0b0b0b;
+	background: #111;
 }
 th,
 td {
